@@ -7,7 +7,7 @@ height: 1px;
 }
 .h-custom {
 height: calc(100% - 73px);
-}
+} 
 
 * {
   margin: 0;
