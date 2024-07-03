@@ -9,7 +9,7 @@ const firebaseConfig = {
   storageBucket: "todo-fcb.appspot.com",
   messagingSenderId: "346244594267",
   appId: "1:346244594267:web:9abd1545dd6db4e521dd7e",
-  measurementId: "G-E0JCNBB081"
+  measurementId: "G-E0JCNBB081"   
   };
 
   
